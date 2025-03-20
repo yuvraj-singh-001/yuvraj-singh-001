@@ -14,7 +14,7 @@
    
 
 ## 📌 Featured Projects  
-1. *[Portfolio]((https://github.com/yuvraj-singh-001/yuvraj-portfolio))* .  
+1. *[Portfolio](https://github.com/yuvraj-singh-001/yuvraj-portfolio)* .  
 2. *[Marriage Invite card](https://github.com/yuvraj-singh-001/krishna)*  
 
 ---
