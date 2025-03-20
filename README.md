@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuvraj Singh
+### 🚀 Frontend Developer | UI/UX Enthusiast  
 
-<!--
-**yuvraj-singh-001/yuvraj-singh-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I love building interactive and responsive web applications.  
+🌱 Currently exploring *[JAVA]*.  
+🔧 Skilled in *HTML, CSS, JavaScript, SQL.  
+📫 How to reach me: yuvrajsingh807744@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+- *Frontend:* HTML, CSS, JavaScript 
+- *Tools:* Git, GitHub, VS Code  
+   
+
+## 📌 Featured Projects  
+1. *[Portfolio]((https://github.com/yuvraj-singh-001/yuvraj-portfolio))* .  
+2. *[Marriage Invite card](https://github.com/yuvraj-singh-001/krishna)*  
+
+---
+
+⭐ Feel free to check out my repos and contribute!
